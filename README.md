@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sheikhabbasit
--    I’m a Front-End JavaScript Developer.
-- 📝 I am currently learning React.
-- 👨‍💻 I am looking for oppurtunities as ReactJs developer.
+-    I’m a Front-End Developer.
+- 📝 I am trying to master ReactJs.
+- 👨‍💻 I am working as a ReactJs developer.
 - 💌 You can reach me on sheikh.abdul.basit95@gmail.com
 
 
